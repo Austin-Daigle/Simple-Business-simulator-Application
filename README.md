@@ -3,7 +3,7 @@ This is a simple Java application that make a game to simulate a small business
 
 
 
-Simulator Instructions/Rules:
+## Simulator Instructions/Rules:
 
 
 There are four user-intractable options that can be pursued
