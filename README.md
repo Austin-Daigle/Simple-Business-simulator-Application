@@ -1,5 +1,5 @@
 # Simple-Business-simulator-Application
-This is a simple Java application that make a game to simulate a small business
+This is a simple Java application that makes a game to simulate a small business under different dynamically adjusting conditions.
 
 
 
