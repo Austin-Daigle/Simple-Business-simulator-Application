@@ -3,7 +3,7 @@ This is a simple Java application that makes a game to simulate a small business
 
 
 # How to use:
-Download the attached executable .jar application and execute and the java-based GUI will start-up. Alternately, the program can also be run by downloading the source code and compiling/executing each java class via a command line/IDE or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable.
+Download the attached [executable .jar application](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/blob/main/Business%20Simulator%20Java%20Program%20v1.0.jar) and execute and the java-based GUI will start-up. Alternately, the program can also be run by downloading the [source code](https://github.com/Austin-Daigle/Simple-Business-simulator-Application/tree/main/SourceCode) and compiling/executing each java class via a command line/IDE or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable.
 
 
 ## Simulator Instructions/Rules:
