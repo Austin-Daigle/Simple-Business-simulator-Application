@@ -2,9 +2,11 @@
 This is a simple Java application that makes a game to simulate a small business under different dynamically adjusting conditions.
 
 
+# How to use:
+Download the attached executable .jar application and execute and the java-based GUI will start-up. Alternately, the program can also be run by downloading the source code and compiling/executing each java class via a command line/IDE or the classes for the source code can be introduced into the Eclipse IDE and exported as a .jar executable.
+
 
 ## Simulator Instructions/Rules:
-
 
 There are four user-intractable options that can be pursued
 during the simulator. You as a business owner have the following options
