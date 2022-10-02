@@ -4,6 +4,8 @@ This is a simple Java application that make a game to simulate a small business
 
 
 Simulator Instructions/Rules:
+
+
 There are four user-intractable options that can be pursued
 during the simulator. You as a business owner have the following options
 available. You can remain passive(do nothing), buy inventory, put
